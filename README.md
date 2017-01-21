@@ -8,5 +8,5 @@
 ---
 
 ### R-Shiny
-* Interactive application incorporating machine learning technique Random forest for Iris data & has been deployed using R-Shiny
+* Interactive application incorporating machine-learning technique Random-forest for Iris data & has been deployed using R-Shiny
 * Published on shinyapps.io [click here](https://yashwanthgowda-741988.shinyapps.io/apps/)
