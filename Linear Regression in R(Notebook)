@@ -356,8 +356,6 @@ TukeyHSD(aov(satisfaction_level ~ Work_accident+promotion_last_5years+salary, da
 # PCA
 PCA <- prcomp(HR_Analytics[sapply(HR_Analytics,is.numeric)][2:5],cor=TRUE, scale. = TRUE, retx = TRUE);PCA
 summary(PCA)
-#The loadings for the principal components are stored in:
-#print(PCA$rotation) # with princomp(): pca$loadings
 
 #plot of variance of each PCA. It will be useful to decide how many principal components should be retained.
 screeplot(PCA, type="lines",col=3) # 3-components can be retained
