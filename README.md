@@ -2,7 +2,7 @@
 
 ### R-Notebook
 * Coding is done using newly developed functionality in R called 'R-Notebook'
-* Output is published on 'R-pubs' for better screening purpose [click here](http://rpubs.com/YashwanthRPubs/243495)
+* Output is published on 'R-pubs' and for better screening [click here](http://rpubs.com/YashwanthRPubs/243495)
 * Insights are drawn & concluded below each output
 
 ---
